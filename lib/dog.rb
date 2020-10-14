@@ -1,5 +1,5 @@
 class Dog
-   attr_accessor :Cat
+   attr_accessor :Dog
   
   def initialize (cat)
     cat = cat.new
