@@ -1,7 +1,7 @@
 class Dog
-   attr_accessor :Dog
+   attr_accessor :name
   
-  def initialize (Dog)
+  def initialize (name)
     Dog = Dog.new
     @Dog = Dog
   
