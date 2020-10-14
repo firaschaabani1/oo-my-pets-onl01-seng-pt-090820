@@ -1,3 +1,8 @@
 class Cat
-  # code goes here
+  attr_accessor :Cat
+  
+  def initialize (cat)
+    cat = cat.new
+    @cat = cat
+  end
 end
