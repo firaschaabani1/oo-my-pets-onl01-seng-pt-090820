@@ -6,10 +6,18 @@ class Cat
     @cat = cat
   end
   
+  def walking the cat 
+    @walking = walking
+    if owner walking cat
+      puts 'walking'
+    else nil
+  end
+    
+end
   def mood (cat)
-    if owner + cat = 1
-      puts "happy"
-    else puts "nervous"
+    if walking cat
+      puts "cat happy"
+    else puts "cat nervous"
     end
   end  
 end
