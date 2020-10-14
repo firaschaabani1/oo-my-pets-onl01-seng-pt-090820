@@ -6,7 +6,7 @@ class Cat
     @cat = cat
   end
   
-  def walking the cat 
+  def walking (cat)
     @walking = walking
     if owner walking cat
       puts 'walking'
