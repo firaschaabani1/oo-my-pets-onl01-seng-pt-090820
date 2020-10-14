@@ -7,6 +7,7 @@ class Cat
   end
   
   def mood (cat)
-    
+    if owner + cat = 1
+      puts "happy
   end  
 end
