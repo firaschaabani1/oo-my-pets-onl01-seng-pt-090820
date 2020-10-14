@@ -9,6 +9,7 @@ class Cat
   def mood (cat)
     if owner + cat = 1
       puts "happy"
-    else puts 
+    else puts "nervous"
+    end
   end  
 end
